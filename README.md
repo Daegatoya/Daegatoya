@@ -3,6 +3,8 @@
 
 ## ✨ Like a star. ✨
 
+![alt text](https://i.imgur.com/4M7IWwP.gif)
+
 ### 🎩 Sir. 0bF 🎩
 ![alt text](https://i.imgur.com/4M7IWwP.gif)
 ![Active](https://img.shields.io/badge/💾%20Dev-C%20%26%20Js%20💾-daa520)
