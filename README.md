@@ -3,9 +3,8 @@
 
 ## ✨ Like a star. ✨
 ## 🌙 Can't flee reality. 🌙
-![alt text](https://giphy.com/stickers/theknocks-music-colors-the-knocks-d7ksFGq7zgwlZkedcZ)
-### 🎩 Sir. 0bF 🎩
 ![alt text](https://i.imgur.com/4M7IWwP.gif)
+### 🎩 Sir. 0bF 🎩
 ![Active](https://img.shields.io/badge/💾%20Dev-C%20%26%20Js%20💾-daa520)
 ![Active](https://img.shields.io/badge/💻%20Other-Web%20/%20PWN%20💻-00ff00) 
 ![Active](https://img.shields.io/badge/🎓%20Learning-Python%20🎓-0effd5)
