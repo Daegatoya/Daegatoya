@@ -3,7 +3,7 @@
 
 ## ✨ Like a star. ✨
 ## 🌙 Can't flee reality. 🌙
-![alt text](https://i.imgur.com/4M7IWwP.gif)
+![alt text](http://www.vilavalverde.com/assets/img/div1.png)
 
 ### 🎩 Sir. 0bF 🎩
 ![alt text](https://i.imgur.com/4M7IWwP.gif)
