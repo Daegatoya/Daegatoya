@@ -3,8 +3,7 @@
 
 ## ✨ Like a star. ✨
 ## 🌙 Can't flee reality. 🌙
-![alt text](http://www.vilavalverde.com/assets/img/div1.png)
-
+![alt text](https://images.vexels.com/media/users/3/130376/isolated/preview/37c1daa0cbe8d073cf6e3c0533f6822d-floral-decorative-ornament-divider-by-vexels.png)
 ### 🎩 Sir. 0bF 🎩
 ![alt text](https://i.imgur.com/4M7IWwP.gif)
 ![Active](https://img.shields.io/badge/💾%20Dev-C%20%26%20Js%20💾-daa520)
