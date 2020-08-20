@@ -2,7 +2,7 @@
 
 
 ## ✨ Like a star. ✨
-## 🌙 Can't flee reality. 🌙
+##  I ❤️ Dev 
 ![alt text](https://i.imgur.com/4M7IWwP.gif)
 ### 🎩 Sir. 0bF 🎩
 ![Active](https://img.shields.io/badge/💾%20Dev-C,%20Java%20%26%20Js%20💾-daa520)
