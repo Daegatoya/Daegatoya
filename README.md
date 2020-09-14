@@ -1,4 +1,4 @@
-<img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="Mokmi" src="https://cdn.discordapp.com/attachments/688926442615996416/742995435978752025/image0.jpg">
+<img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="Mokmi" src="https://cdn.discordapp.com/attachments/613585017913999361/754867075192979638/image0.gif">
 
 
 ## ✨ Like a star. ✨
