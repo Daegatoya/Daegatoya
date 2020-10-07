@@ -1,8 +1,6 @@
 <img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="Mokmi" src="https://cdn.discordapp.com/attachments/613585017913999361/754868186876346408/image0.jpg">
 
 
-## ✨ Like a star. ✨
-##  I ❤️ Dev 
 ![alt text](https://i.imgur.com/4M7IWwP.gif)
 ### 🎩 Sir. 0bF 🎩
 ![Active](https://img.shields.io/badge/💾%20Dev-C,%20Java%20%26%20Js%20💾-daa520)
