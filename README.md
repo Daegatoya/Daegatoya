@@ -10,8 +10,6 @@
   
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Plattyz&theme=highcontrast&show_icons=true)
 
-![Alt](https://i.pinimg.com/originals/37/46/33/3746334c4596fe540639150232ff0698.gif)
-
 <p align="center">
          <a href="https://twitter.com/0x4d6f6b6d69">
          <img src="https://img.shields.io/static/v1?label=Twitter&logo=Twitter&message=Follow%20Me&color=blue">
