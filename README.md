@@ -17,4 +17,6 @@
          <a href="https://github.com/Plattyz">
          <img src="https://img.shields.io/static/v1?label=GitHub&logo=GitHub&logoColor=black&message=My%20GitHub&color=black">
          </a>
-
+ <a href="https://plattyz.github.io/">
+         <img src="https://img.shields.io/static/v1?label=My%20Website&logo=HTML5&message=Try%20My%20Simple%20CTF&color=orange">
+         </a>
