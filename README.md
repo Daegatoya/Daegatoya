@@ -4,7 +4,7 @@
 
 # `👋 Hey! Welcome on my profile! 👋`
 
-# `📋 I'm just a simple guy who likes to dev in C and JS 📋`
+# `📋 I'm just a simple girl who likes to dev in C and JS 📋`
   
   ![alt text](https://i.imgur.com/4M7IWwP.gif)
   
