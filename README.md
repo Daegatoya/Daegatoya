@@ -11,7 +11,7 @@
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Plattyz&theme=highcontrast&show_icons=true)
 
 <p align="center">
-         <a href="https://twitter.com/0x4d6f6b6d69">
+         <a href="https://twitter.com/Daegatoya">
          <img src="https://img.shields.io/static/v1?label=Twitter&logo=Twitter&message=Follow%20Me&color=blue">
          </a>
          <a href="https://github.com/Plattyz">
