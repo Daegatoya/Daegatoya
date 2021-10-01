@@ -8,7 +8,7 @@
   
   ![alt text](https://i.imgur.com/4M7IWwP.gif)
   
-![Github stats](https://github-readme-stats.vercel.app/api?username=Plattyz&theme=highcontrast&show_icons=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=Daegatoya&theme=highcontrast&show_icons=true)
 
 <p align="center">
          <a href="https://twitter.com/Daegatoya">
