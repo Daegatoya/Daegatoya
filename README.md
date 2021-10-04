@@ -50,4 +50,4 @@
 
 ---
 
-<kbd><img src="https://i.kym-cdn.com/photos/images/original/001/072/405/5ed.jpg" width="450" height="250"></kbd>[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Daegatoya&repo=discord-memoji)](https://github.com/Daegatoya/github-readme-stats)
+<kbd><img src="https://i.kym-cdn.com/photos/images/original/001/072/405/5ed.jpg" width="450" height="250"></kbd>[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Daegatoya&repo=discord-memoji)](https://github.com/Daegatoya/discord-memoji)
