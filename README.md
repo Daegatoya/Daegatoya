@@ -5,7 +5,7 @@
 
 - 💻 **I'm Eli_ (or Daegatoya) and I love to code in my free times!**
 
-- 🌎 **I'm from 🇨🇦 and I speak french (and english, obviously).**
+- 🌎 **I'm from Canada and I speak french (and english, obviously).**
 
 - ⌨️ **My main coding language is JavaScript, but I like to experiment new languages when I can!**
 
