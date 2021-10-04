@@ -5,7 +5,7 @@
 
 - 💻 **I'm Eli_ (or Daegatoya) and I love to code in my free times!**
 
-- 🌎 **I'm from Canada and I speak french (and english, obviously).**
+- 🌎 **I'm from 🇨🇦 and I speak french (and english, obviously).**
 
 - ⌨️ **My main coding language is JavaScript, but I like to experiment new languages when I can!**
 
@@ -14,7 +14,7 @@
   <a href="https://twitter.com/Daegatoya">
          <img src="https://img.shields.io/static/v1?label=Twitter&logo=Twitter&message=Follow%20Me&color=pink">
          </a>
-          <a href="https://github.com/Plattyz">
+          <a href="https://github.com/Daegatoya">
          <img src="https://img.shields.io/static/v1?label=GitHub&logo=GitHub&logoColor=blue&message=My%20GitHub&color=pink">
          </a>
 
