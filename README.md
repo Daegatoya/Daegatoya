@@ -22,7 +22,7 @@
 
 ### **Stay aware to know more about me and don't forget to follow me to not miss any of my projects!**
 
-- 📋 [**My last project.**](https://github.com/Daegatoya/Chonsole)
+- 📋 [**My latest project**](https://github.com/Daegatoya/Chonsole)
 
 - 🎮 [**My favorite game**](https://roblox.com)
 
