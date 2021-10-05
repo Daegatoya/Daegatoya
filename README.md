@@ -20,7 +20,7 @@
 
 ---
 
-### **Stay aware to know more about me and don't forget to follow me to not miss any of my projects!**
+### **Stay aware to know more about me and don't forget to [follow me](https://github.com/Daegatoya) to not miss any of my projects!**
 
 - 📋 [**My latest project**](https://github.com/Daegatoya/Chonsole)
 
