@@ -50,4 +50,4 @@
 
 ---
 
-<kbd><img src="https://i.kym-cdn.com/photos/images/original/001/072/405/5ed.jpg" width="450" height="250"></kbd>[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Daegatoya&repo=Chonsole)](https://github.com/Daegatoya/Chonsole)
+<kbd><img src="https://cdn.discordapp.com/attachments/852671606249226261/928136620727738438/IMG_9602.jpg" width="450" height="250"></kbd>[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Daegatoya&repo=Chonsole)](https://github.com/Daegatoya/Chonsole)
