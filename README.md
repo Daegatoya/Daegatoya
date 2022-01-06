@@ -3,11 +3,11 @@
 
 ---
 
-- 💻 **I'm Eli_ (or Daegatoya) and I love to code in my free times!**
+- 💻 **I'm Eli_ (or Daegatoya) and I'm a free time developer.**
 
 - 🌎 **I'm from Canada and I speak french (and english, obviously).**
 
-- ⌨️ **My main coding language is JavaScript, but I like to experiment new languages when I can!**
+- ⌨️ **My main coding language is JavaScript, but I like to experiment new languages when I can! (Which I rarely do btw...)**
 
 ---
 
