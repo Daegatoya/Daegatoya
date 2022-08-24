@@ -3,7 +3,7 @@
 
 ---
 
-- 💻 **I'm Eli_ (or Daegatoya) and I'm a free time developer.**
+- 💻 **I'm Eli_ (or Daegatoya) and I'm a student in computer sciences.**
 
 - 🌎 **I'm from Canada and I speak french (and english, obviously).**
 
