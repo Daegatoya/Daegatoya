@@ -1,5 +1,6 @@
 ## `Hello, friends!` :wave: 
-<img alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /> <img alt="C#" width="26px" src="https://github.com/Daegatoya/Daegatoya/blob/master/c-sharp.png" />
+<img alt="JavaScript" width="28px" align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /> <img alt="C#" width="28px" align="left" src="https://github.com/Daegatoya/Daegatoya/blob/master/c-sharp.png" /> <img alt="VSC" width="28px" align="left" src="https://github.com/Daegatoya/Daegatoya/blob/master/Visual_Studio_Code_1.35_icon.svg.png" /> 
+<img alt="Oracle VM" width="28px" align="left" src="https://github.com/Daegatoya/Daegatoya/blob/master/Virtualbox_logo.png" /> <img alt=".NET" width="28px" align="left" src="https://github.com/Daegatoya/Daegatoya/blob/master/NET_Foundation_Logo.svg.png" />  <img alt="VS" width="28px" align="left" src="https://github.com/Daegatoya/Daegatoya/blob/master/Microsoft_Visual_Studio_2022.png" /> <img alt="Node" width="28px" src="https://github.com/Daegatoya/Daegatoya/blob/master/5968322.png" />
 
 ---
 
