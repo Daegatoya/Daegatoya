@@ -1,4 +1,4 @@
-# Hello, friends! :wave: 
+## `Hello, friends!` :wave: 
 <img alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /> <img alt="C#" width="26px" src="https://github.com/Daegatoya/Daegatoya/blob/master/c-sharp.png" />
 
 ---
@@ -15,7 +15,7 @@
          <img src="https://img.shields.io/static/v1?label=Twitter&logo=Twitter&message=Follow%20Me&color=pink">
          </a>
           <a href="https://daegatoya.github.io/download-page/">
-         <img src="https://img.shields.io/static/v1?label=Website&logo=HTML5&logoColor=blue&message=My%20Challenge&color=pink">
+         <img src="https://img.shields.io/static/v1?label=Website&logo=HTML5&logoColor=blue&message=My%20Webhost&color=pink">
          </a>
 
 ---
@@ -50,6 +50,6 @@
 
 ---
 
-<kbd><img src="https://cdn.discordapp.com/attachments/852671606249226261/928136620727738438/IMG_9602.jpg" width="450" height="250"></kbd>
+<kbd><img src="https://img.freepik.com/premium-vector/purple-sunset-sea_521694-114.jpg?w=360" width="450" height="250"></kbd>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Daegatoya&repo=Chonsole)](https://github.com/Daegatoya/Chonsole)
+                                                    Make it 1 or 0.
