@@ -8,7 +8,7 @@
 
 - 🌎 **I'm from Canada and I speak french (and english, obviously).**
 
-- ⌨️ **My main coding language is JavaScript, but I like to experiment new languages when I can! (Which I rarely do btw...)**
+- ⌨️ **My main coding languages are JavaScript & C#, but I like to experiment new languages when I can! (Which I rarely do btw...)**
 
 ---
 
