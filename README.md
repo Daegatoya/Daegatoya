@@ -21,16 +21,6 @@
 
 ---
 
-### **Stay aware to know more about me and don't forget to [follow me](https://github.com/Daegatoya) to not miss any of my projects!**
-
-- 📋 [**My latest project**](https://github.com/Daegatoya/MIC_CTF2)
-
-- 🎮 [**My favorite game**](https://roblox.com)
-
-- ☕ [**My JavaScript tutorial**](https://github.com/Daegatoya/JavaScript_Tutorial)
-
----
-
 <details>
 <summary>👻 Github Stats</summary>
   
