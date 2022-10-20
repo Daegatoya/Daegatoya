@@ -34,7 +34,7 @@
 <summary> 🎃 Most used languages</summary>
   
 <!--START_SECTION:activity-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daegatoya)](https://github.com/Daegatoya/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daegatoya&layout=compact&theme=radical)](https://github.com/Daegatoya/github-readme-stats)
 <!--END_SECTION:activity-->
 
 </details>
