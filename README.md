@@ -4,7 +4,7 @@
 
 ---
 
-- 💻 **I'm Plattyz (or Daegatoya) and I'm a student in informatics.**
+- 💻 **I'm Plattyz (or Daegatoya) and I'm a student in programmation & network administration.**
 
 - 🌎 **I'm from Canada and I speak french (and english, obviously).**
 
