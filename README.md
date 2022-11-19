@@ -15,9 +15,6 @@
   <a href="https://twitter.com/Daegatoya">
          <img src="https://img.shields.io/static/v1?label=Twitter&logo=Twitter&message=Follow%20Me&color=pink">
          </a>
-          <a href="https://daegatoya.github.io/download-page/">
-         <img src="https://img.shields.io/static/v1?label=Website&logo=HTML5&logoColor=blue&message=My%20Webhost&color=pink">
-         </a>
 
 ---
 
