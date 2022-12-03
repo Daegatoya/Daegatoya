@@ -4,7 +4,7 @@
 
 ---
 
-- 💻 **I'm CyberKitten (or Daegatoya, or Plattyz, or mokmi...) and I'm a student in programmation & network administration.**
+- 💻 **I'm CyberKitten and I'm a student in programmation & network/hardware administration.**
 
 - 🌎 **I'm from Canada and I speak french (and english, obviously).**
 
