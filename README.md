@@ -15,6 +15,11 @@
   <a href="https://twitter.com/Daegatoya">
          <img src="https://img.shields.io/static/v1?label=Twitter&logo=Twitter&message=Follow%20Me&color=pink">
          </a>
+         
+<p align="center">
+
+![My Discord](https://discord-readme-badge.vercel.app/api?id=852663698803130389)
+</p>
 
 ---
 
