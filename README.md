@@ -4,7 +4,7 @@
 
 ---
 
-- 💻 **I'm Daegatoya and I'm a student in programming & Cyber Security.**
+- 💻 **I'm Daegatoya and I'm a student in programming & cyber security.**
 
 - 🌎 **I'm from Canada and I speak french (and english, obviously).**
 
