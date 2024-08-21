@@ -16,10 +16,6 @@
          <img src="https://img.shields.io/static/v1?label=Twitter&logo=Twitter&message=Follow%20Me&color=pink">
          </a>
          
-<p align="center">
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/852663698803130389?theme=dark&animated=false&hideDiscrim=true)](https://discord.com/users/852663698803130389)
-</p>
 
 ---
 
