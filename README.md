@@ -4,9 +4,9 @@
 
 ---
 
-- 💻 **I'm Daegatoya and I'm a collegian in programming & cyber security.**
+- 💻 **I'm Daegatoya and I'm a collegian in programming.**
 
-- 🌎 **I'm from Canada and I speak french (and english, obviously).**
+- 🌎 **I'm from Canada.**
 
 - ⌨️ **My main coding languages are JavaScript & C#, but I like to experiment new languages when I can! (Which I rarely do btw...)**
 
