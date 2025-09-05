@@ -9,12 +9,6 @@
 - 🌎 **I'm from Canada.**
 
 - ⌨️ **My main coding languages are JavaScript & C#, but I like to experiment new languages when I can! (Which I rarely do btw...)**
-
----
-
-  <a href="https://twitter.com/Daegatoya">
-         <img src="https://img.shields.io/static/v1?label=Twitter&logo=Twitter&message=Follow%20Me&color=pink">
-         </a>
          
 
 ---
