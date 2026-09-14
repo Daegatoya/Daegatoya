@@ -4,7 +4,7 @@
 
 ---
 
-- 💻 **I'm Daegatoya and I'm a collegian in programming.**
+- 💻 **I'm Daegatoya and I'm a univesrity student in video game programming**
 
 - 🌎 **I'm from Canada.**
 
