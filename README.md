@@ -9,27 +9,7 @@
 - 🌎 **I'm from Canada.**
 
 - ⌨️ **My main coding languages are JavaScript & C#, but I like to experiment new languages when I can! (Which I rarely do btw...)**
-         
 
----
-
-<details>
-<summary>👻 Github Stats</summary>
-  
-<!--START_SECTION:activity-->
-![Github stats](https://github-readme-stats.vercel.app/api?username=Daegatoya&theme=radical&show_icons=true)
-<!--END_SECTION:activity-->
-
-</details>
-
-<details>
-<summary> 🎃 Most used languages</summary>
-  
-<!--START_SECTION:activity-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daegatoya&layout=compact&theme=radical)](https://github.com/Daegatoya/github-readme-stats)
-<!--END_SECTION:activity-->
-
-</details>
 
 ---
 
