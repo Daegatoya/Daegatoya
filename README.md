@@ -8,7 +8,7 @@
 
 - 🌎 **I'm from Canada.**
 
-- ⌨️ **My main coding languages are C++ & C#, but I like to experiment new languages when I can! (Which I rarely do btw...)**
+- ⌨️ **My main coding languages are C++ & C#, but I like to experiment new languages when I can! (Which I rarely do by the way...)**
 
 
 ---
