@@ -50,7 +50,7 @@ I'm a developer who loves understanding **how things work behind the scenes**.
 
 ### 🚀 Featured Projects
 
-#### 🧩 ALANA — Interpreted Programming Language
+#### 🧩 [ALANA](https://github.com/Daegatoya/Alana) — Interpreted Programming Language
 
 A personal interpreted programming language written in **C#**.
 
@@ -63,7 +63,7 @@ Exploring the fundamentals of language design, including:
 
 **Tech:** `C#` `.NET` `Language Design`
 
-#### 💻 BarelyOS — Hobby Operating System
+#### 💻 [BarelyOS](https://github.com/Daegatoya/BarelyOS) — Hobby Operating System
 
 A personal operating system project written in **C++**, created to explore low-level programming.
 
