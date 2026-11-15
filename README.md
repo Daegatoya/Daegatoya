@@ -6,7 +6,7 @@
 
 **Welcome to my little corner of GitHub!** 🚀
 
-🎓 Video Game Programming student at university, college graduate in CST, programming and cybersecurity
+🎓 Video Game Programming student at university. College graduate in CST, programming and cybersecurity
 
 📍 Québec, Canada
 
