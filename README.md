@@ -34,11 +34,11 @@ I'm a developer who loves understanding **how things work behind the scenes**.
 
 **Programming Languages**
 
-![Languages](https://skillicons.dev/icons?i=cpp,cs,python,js,html,css&theme=dark)
+![Languages](https://skillicons.dev/icons?i=cpp,cs,python,js,ts,html,css&theme=dark)
 
 **Frameworks & Tools**
 
-![Tools](https://skillicons.dev/icons?i=dotnet,django,react,nodejs,ts,git,github,visualstudio,vscode&theme=dark)
+![Tools](https://skillicons.dev/icons?i=dotnet,django,react,nodejs,git,github,visualstudio,vscode&theme=dark)
 
 **Systems & Cloud**
 
