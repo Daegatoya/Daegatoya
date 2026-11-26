@@ -38,7 +38,7 @@ I'm a developer who loves understanding **how things work behind the scenes**.
 
 **Frameworks & Tools**
 
-![Tools](https://skillicons.dev/icons?i=dotnet,django,git,github,visualstudio,vscode&theme=dark)
+![Tools](https://skillicons.dev/icons?i=dotnet,django,react,git,github,visualstudio,vscode&theme=dark)
 
 **Systems & Cloud**
 
