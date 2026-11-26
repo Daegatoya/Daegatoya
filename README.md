@@ -73,8 +73,11 @@ Current areas of experimentation:
 - Bootloading with Limine
 - Framebuffer graphics
 - Basic terminal and text rendering
+- File management with physical memory
+- Memory management using PMM
+- ASM programming for registry management
 
-**Tech:** `C++` `Clang` `Limine` `x86-64`
+**Tech:** `C++` `Clang` `Limine` `x86-64` `ASM`
 
 ---
 
